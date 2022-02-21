@@ -1,0 +1,13 @@
+.cuenta-atras {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: whitesmoke;
+    height: 20vh;
+    min-width: 60vw;
+    border: solid orange 10px;
+    border-radius: 10%;
+    margin:20px;
+  }
+  

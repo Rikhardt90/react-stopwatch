@@ -40,6 +40,7 @@ const Cronometro = () => {
           <button onClick={() => setTimerOn(true)}>Resume</button>
         )}
       </div>
+      
     </div>
   );
 };
